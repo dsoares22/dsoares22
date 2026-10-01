@@ -20,9 +20,9 @@ Também estou estudando **Python e Django** para ampliar minhas possibilidades n
 
 | Área | Ferramentas |
 | --- | --- |
-| **Backend** | Java, Spring Boot, Spring Web, Spring JDBC, Spring Data JPA, Spring Security, Node.js, Express |
-| **Frontend** | Vue 3, Vue Router, Pinia, Vite, HTML5, CSS3, JavaScript, Bootstrap |
-| **Dados e autenticação** | PostgreSQL, Supabase, JWT, BCrypt |
+| **Backend** | Java, Spring Boot,Node.js, Express |
+| **Frontend** | Vue.js, HTML5, CSS3, JavaScript,|
+| **Dados e autenticação** | PostgreSQL, Supabase e JWT|
 | **Integração e publicação** | APIs REST, Axios, Maven, Netlify |
 
 ## 🚀 Projetos em destaque
