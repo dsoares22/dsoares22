@@ -8,7 +8,7 @@
   <a href="mailto:davisilvasoares1@gmail.com"><img src="https://img.shields.io/badge/Email-Fale%20comigo-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Enviar e-mail para Davi" /></a>
 </div>
 
-## 👋 Sobre mim
+## 🙎🏻‍♂️ Sobre mim
 
 Sou **Davi Silva Soares**, desenvolvedor full stack e estudante de **Engenharia de Software** em Teresina, Piauí. Meu foco é construir o backend com **Java e Spring Boot**, criar interfaces com **Vue.js, HTML, CSS e JavaScript** e conectar tudo a dados reais.
 
@@ -16,7 +16,7 @@ Nos projetos abaixo, trabalhei com APIs REST, autenticação, regras de negócio
 
 Também estou estudando **Python e Django** para ampliar minhas possibilidades no desenvolvimento web.
 
-## 🧰 Tecnologias que uso
+## 💻 Tecnologias 
 
 | Área | Ferramentas |
 | --- | --- |
@@ -62,6 +62,5 @@ Aplicação para controlar produtos e movimentações de estoque por empresa. Pe
 ---
 
 <div align="center">
-  <strong>Vamos construir algo juntos?</strong><br />
   Entre em contato pelo <a href="mailto:davisilvasoares1@gmail.com">e-mail</a> ou pelo <a href="https://www.linkedin.com/in/davi-silva-soares-469b9235b/">LinkedIn</a>.
 </div>
