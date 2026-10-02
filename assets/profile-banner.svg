@@ -20,16 +20,19 @@
       <path d="M32 0H0V32" fill="none" stroke="#29405D" stroke-width="1" opacity=".42"/>
     </pattern>
   </defs>
+
   <rect width="1200" height="320" rx="24" fill="url(#background)"/>
   <rect width="1200" height="320" rx="24" fill="url(#grid)" opacity=".4"/>
   <rect x="0" y="0" width="1200" height="7" rx="3.5" fill="url(#stripe)"/>
   <circle cx="1050" cy="155" r="168" fill="none" stroke="#5B78A2" stroke-width="1" opacity=".25"/>
   <circle cx="1050" cy="155" r="123" fill="none" stroke="#5B78A2" stroke-width="1" opacity=".25"/>
   <circle cx="1050" cy="155" r="78" fill="none" stroke="#5B78A2" stroke-width="1" opacity=".25"/>
+
   <rect x="57" y="51" width="8" height="21" rx="4" fill="#8B7CFF"/>
   <text x="80" y="68" fill="#9FAEFF" font-family="Arial, Helvetica, sans-serif" font-size="16" font-weight="700" letter-spacing="2.5">DEV FULL STACK · TERESINA, PI</text>
   <text x="57" y="149" fill="url(#headline)" font-family="Arial, Helvetica, sans-serif" font-size="55" font-weight="700">Davi Silva Soares</text>
   <text x="60" y="195" fill="#B8C8E2" font-family="Arial, Helvetica, sans-serif" font-size="23">Criando soluções completas, do backend à interface.</text>
+
   <rect x="57" y="238" width="100" height="36" rx="18" fill="#21223F" stroke="#746AE4"/>
   <text x="107" y="262" text-anchor="middle" fill="#DED9FF" font-family="Arial, Helvetica, sans-serif" font-size="16" font-weight="700">Java</text>
   <rect x="169" y="238" width="143" height="36" rx="18" fill="#172D3A" stroke="#42BFC7"/>
@@ -38,15 +41,18 @@
   <text x="374" y="262" text-anchor="middle" fill="#C0E5FF" font-family="Arial, Helvetica, sans-serif" font-size="16" font-weight="700">Vue.js</text>
   <rect x="436" y="238" width="140" height="36" rx="18" fill="#3A2D2D" stroke="#D9955B"/>
   <text x="506" y="262" text-anchor="middle" fill="#FFE2BD" font-family="Arial, Helvetica, sans-serif" font-size="16" font-weight="700">PostgreSQL</text>
+
   <path d="M799 114L844 180L889 246" fill="none" stroke="#7D90AE" stroke-width="2" stroke-dasharray="4 6" opacity=".7"/>
   <rect x="757" y="48" width="345" height="69" rx="15" fill="#1B2241" stroke="#786FE0" stroke-width="1.5"/>
   <rect x="757" y="48" width="6" height="69" rx="3" fill="#8B7CFF"/>
   <text x="785" y="77" fill="#A99FFF" font-family="Arial, Helvetica, sans-serif" font-size="13" font-weight="700" letter-spacing="2">INTERFACE</text>
   <text x="785" y="103" fill="#F8FAFF" font-family="Arial, Helvetica, sans-serif" font-size="23" font-weight="700">Vue.js + JavaScript</text>
+
   <rect x="795" y="124" width="345" height="69" rx="15" fill="#162C3A" stroke="#47BFC8" stroke-width="1.5"/>
   <rect x="795" y="124" width="6" height="69" rx="3" fill="#52D7E6"/>
   <text x="823" y="153" fill="#77DADE" font-family="Arial, Helvetica, sans-serif" font-size="13" font-weight="700" letter-spacing="2">API</text>
   <text x="823" y="179" fill="#F8FAFF" font-family="Arial, Helvetica, sans-serif" font-size="23" font-weight="700">Java + Spring Boot</text>
+
   <rect x="833" y="200" width="345" height="69" rx="15" fill="#312B2D" stroke="#DA9F6B" stroke-width="1.5"/>
   <rect x="833" y="200" width="6" height="69" rx="3" fill="#FFB86B"/>
   <text x="861" y="229" fill="#FFC992" font-family="Arial, Helvetica, sans-serif" font-size="13" font-weight="700" letter-spacing="2">DADOS</text>
