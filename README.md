@@ -33,7 +33,7 @@ Sistema de agendamento de atendimentos para a **WS Consultoria**, desenvolvido e
 
 `Vue 3` · `Pinia` · `Node.js` · `Express` · `Supabase/PostgreSQL`
 
-**[Explorar o projeto →](https://github.com/dvsxx11/ws_agenda)**
+**[Explorar o projeto →](https://github.com/dsoares22/ws_agenda)**
 
 ### ⚽ [API de Jogadores](https://github.com/dvsxx11/api_jogadores)
 
@@ -41,7 +41,7 @@ Aplicação full stack para cadastrar, consultar e analisar jogadores de futebol
 
 `Java` · `Spring Boot` · `Spring JDBC` · `PostgreSQL` · `Vue 3`
 
-**[Explorar o projeto →](https://github.com/dvsxx11/api_jogadores)**
+**[Explorar o projeto →](https://github.com/dsoares22/api_jogadores)**
 
 ### 🌐 [Site WS Assessoria Comercial](https://github.com/dvsxx11/Site-Wsconsultoria)
 
@@ -49,7 +49,7 @@ Site institucional responsivo para uma empresa de assessoria comercial e imobili
 
 `HTML5` · `CSS3` · `JavaScript` · `Netlify`
 
-**[Ver o código →](https://github.com/dvsxx11/Site-Wsconsultoria)** · **[Acessar o site →](https://wsassessoriacomercial.netlify.app/)**
+**[Ver o código →](https://github.com/dsoares22/Site-Wsconsultoria)** · **[Acessar o site →](https://wsassessoriacomercial.netlify.app/)**
 
 ### 📦 [EstoqueFácil](https://github.com/dvsxx11/Estoquefacil)
 
@@ -57,7 +57,7 @@ Aplicação para controlar produtos e movimentações de estoque por empresa. Pe
 
 `Java` · `Spring Boot` · `Spring Security` · `PostgreSQL` · `Vue 3`
 
-**[Explorar o projeto →](https://github.com/dvsxx11/Estoquefacil)**
+**[Explorar o projeto →](https://github.com/dsoares22/Estoquefacil)**
 
 ---
 
