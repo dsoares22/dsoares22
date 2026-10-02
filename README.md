@@ -3,7 +3,7 @@
 
   <br />
 
-  <a href="https://github.com/dvsxx11"><img src="https://img.shields.io/badge/GitHub-dvsxx11-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub: dvsxx11" /></a>
+  <a href="https://github.com/dsoares22"><img src="https://img.shields.io/badge/GitHub-dsoares22-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub: dsoares22" /></a>
   <a href="https://www.linkedin.com/in/davi-silva-soares-469b9235b/"><img src="https://img.shields.io/badge/LinkedIn-Davi%20Silva-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn de Davi Silva" /></a>
   <a href="mailto:davisilvasoares1@gmail.com"><img src="https://img.shields.io/badge/Email-Fale%20comigo-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Enviar e-mail para Davi" /></a>
 </div>
@@ -27,7 +27,7 @@ Também estou estudando **Python e Django** para ampliar minhas possibilidades n
 
 ## 🚀 Projetos em destaque
 
-### 📅 [WS Agenda Online](https://github.com/dvsxx11/ws_agenda)
+### 📅 [WS Agenda Online](https://github.com/dsoares22/ws_agenda)
 
 Sistema de agendamento de atendimentos para a **WS Consultoria**, desenvolvido em equipe. Reúne login, rotas protegidas, cadastro e acompanhamento de visitas a clientes, além de um dashboard com indicadores.
 
@@ -35,7 +35,7 @@ Sistema de agendamento de atendimentos para a **WS Consultoria**, desenvolvido e
 
 **[Explorar o projeto →](https://github.com/dsoares22/ws_agenda)**
 
-### ⚽ [API de Jogadores](https://github.com/dvsxx11/api_jogadores)
+### ⚽ [API de Jogadores](https://github.com/dsoares22/api_jogadores)
 
 Aplicação full stack para cadastrar, consultar e analisar jogadores de futebol. A API aplica regras para titularidade e classificação de desempenho a partir da média de gols por partida; a interface em Vue permite navegar e editar os dados.
 
@@ -43,7 +43,7 @@ Aplicação full stack para cadastrar, consultar e analisar jogadores de futebol
 
 **[Explorar o projeto →](https://github.com/dsoares22/api_jogadores)**
 
-### 🌐 [Site WS Assessoria Comercial](https://github.com/dvsxx11/Site-Wsconsultoria)
+### 🌐 [Site WS Assessoria Comercial](https://github.com/dsoares22/Site-Wsconsultoria)
 
 Site institucional responsivo para uma empresa de assessoria comercial e imobiliária. Apresenta serviços, inclui formulário de contato, mapa e acesso direto ao WhatsApp e Instagram.
 
@@ -51,7 +51,7 @@ Site institucional responsivo para uma empresa de assessoria comercial e imobili
 
 **[Ver o código →](https://github.com/dsoares22/Site-Wsconsultoria)** · **[Acessar o site →](https://wsassessoriacomercial.netlify.app/)**
 
-### 📦 [EstoqueFácil](https://github.com/dvsxx11/Estoquefacil)
+### 📦 [EstoqueFácil](https://github.com/dsoares22/Estoquefacil)
 
 Aplicação para controlar produtos e movimentações de estoque por empresa. Permite cadastrar e buscar produtos, registrar entradas e saídas, acompanhar estoque baixo e consultar o histórico. O backend usa autenticação com JWT.
 
