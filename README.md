@@ -21,23 +21,46 @@ Desenvolvedor **full stack** e estudante de **Engenharia de Software** em Teresi
 
 ## 🧰 Tecnologias
 
-| Área | Ferramentas |
-| --- | --- |
-| **Backend** | ![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white) ![Spring Boot](https://img.shields.io/badge/Spring%20Boot-6DB33F?style=flat-square&logo=springboot&logoColor=white) ![Spring Security](https://img.shields.io/badge/Spring%20Security-6DB33F?style=flat-square&logo=springsecurity&logoColor=white) ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white) ![Express](https://img.shields.io/badge/Express-000000?style=flat-square&logo=express&logoColor=white) |
-| **Frontend** | ![Vue.js](https://img.shields.io/badge/Vue.js-4FC08D?style=flat-square&logo=vuedotjs&logoColor=white) ![Pinia](https://img.shields.io/badge/Pinia-FFD859?style=flat-square&logo=vuedotjs&logoColor=black) ![Vite](https://img.shields.io/badge/Vite-646CFF?style=flat-square&logo=vite&logoColor=white) ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white) ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black) ![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=flat-square&logo=bootstrap&logoColor=white) |
-| **Dados e autenticação** | ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white) ![Supabase](https://img.shields.io/badge/Supabase-3FCF8E?style=flat-square&logo=supabase&logoColor=white) ![JWT](https://img.shields.io/badge/JWT-000000?style=flat-square&logo=jsonwebtokens&logoColor=white) |
-| **Ferramentas e deploy** | ![Maven](https://img.shields.io/badge/Maven-C71A36?style=flat-square&logo=apachemaven&logoColor=white) ![Axios](https://img.shields.io/badge/Axios-5A29E4?style=flat-square&logo=axios&logoColor=white) ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white) ![Netlify](https://img.shields.io/badge/Netlify-00C7B7?style=flat-square&logo=netlify&logoColor=white) |
+**Backend** <br />
+![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
+![Spring Boot](https://img.shields.io/badge/Spring%20Boot-6DB33F?style=flat-square&logo=springboot&logoColor=white)
+![Spring Security](https://img.shields.io/badge/Spring%20Security-6DB33F?style=flat-square&logo=springsecurity&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
+![Express](https://img.shields.io/badge/Express-000000?style=flat-square&logo=express&logoColor=white)
+
+**Frontend** <br />
+![Vue.js](https://img.shields.io/badge/Vue.js-4FC08D?style=flat-square&logo=vuedotjs&logoColor=white)
+![Pinia](https://img.shields.io/badge/Pinia-FFD859?style=flat-square&logo=vuedotjs&logoColor=black)
+![Vite](https://img.shields.io/badge/Vite-646CFF?style=flat-square&logo=vite&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=flat-square&logo=bootstrap&logoColor=white)
+
+**Dados e autenticação** <br />
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
+![Supabase](https://img.shields.io/badge/Supabase-3FCF8E?style=flat-square&logo=supabase&logoColor=white)
+![JWT](https://img.shields.io/badge/JWT-000000?style=flat-square&logo=jsonwebtokens&logoColor=white)
+
+**Ferramentas e deploy** <br />
+![Maven](https://img.shields.io/badge/Maven-C71A36?style=flat-square&logo=apachemaven&logoColor=white)
+![Axios](https://img.shields.io/badge/Axios-5A29E4?style=flat-square&logo=axios&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
+![Netlify](https://img.shields.io/badge/Netlify-00C7B7?style=flat-square&logo=netlify&logoColor=white)
+
+**Em estudo** <br />
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![Django](https://img.shields.io/badge/Django-092E20?style=flat-square&logo=django&logoColor=white)
 
 ## 🚀 Projetos em destaque
 
 ### 📦 [EstoqueFácil](https://github.com/dsoares22/Estoquefacil)
 
-Aplicação multiempresa para controlar produtos e movimentações de estoque. Cada empresa tem seus próprios produtos, usuários e histórico, identificados por um `tenant_id`.
+Aplicação multiempresa para controlar produtos e movimentações de estoque, com dados isolados por empresa (`tenant_id`).
 
-- Login com senha protegida por **BCrypt** e **JWT** válido por 24 horas
-- Cadastro e busca de produtos por nome ou SKU, com filtros de estoque baixo ou zerado
+- Login com **BCrypt** e **JWT** válido por 24 horas
 - Entradas e saídas atualizam o saldo na mesma transação, e saídas acima do saldo são bloqueadas
-- Histórico de movimentações por empresa, da mais recente para a mais antiga
+- Busca por nome ou SKU, filtros de estoque baixo e histórico de movimentações
 
 `Java 17` · `Spring Boot` · `Spring Security` · `Spring Data JPA` · `PostgreSQL` · `Vue 3`
 
@@ -47,13 +70,11 @@ Aplicação multiempresa para controlar produtos e movimentações de estoque. C
 
 ### 📅 [WS Agenda Online](https://github.com/dsoares22/ws_agenda)
 
-Sistema de agendamento de visitas para a **WS Consultoria**, desenvolvido em equipe na disciplina de Programação Web. Colaboradores autenticados cadastram, editam e excluem atendimentos e acompanham os números em um dashboard.
+Sistema de agendamento de visitas para a **WS Consultoria**, desenvolvido em equipe com [@JoaoPedroLimaBarbosa](https://github.com/JoaoPedroLimaBarbosa) na disciplina de Programação Web.
 
-- Login e logout com **Supabase Auth**, sessão gerenciada com Pinia
-- Rotas protegidas com redirecionamento automático para o login
+- Login com **Supabase Auth** e rotas protegidas
 - CRUD completo de atendimentos, com status colorido e confirmação antes de excluir
-- Dashboard com indicadores de atendimentos (hoje, semana e por responsável), calculados por uma view SQL
-- API REST própria em Express
+- Dashboard com indicadores (hoje, semana e por responsável) calculados por uma view SQL
 
 `Vue 3` · `Pinia` · `Vue Router` · `Bootstrap` · `Node.js` · `Express` · `Supabase/PostgreSQL`
 
@@ -63,12 +84,11 @@ Sistema de agendamento de visitas para a **WS Consultoria**, desenvolvido em equ
 
 ### ⚽ [API de Jogadores](https://github.com/dsoares22/api_jogadores)
 
-Aplicação full stack para cadastrar, consultar e analisar jogadores de futebol. O backend aplica regras de negócio e a interface em Vue permite navegar e editar os dados.
+Aplicação full stack para cadastrar, consultar e analisar jogadores de futebol.
 
-- Um jogador só pode ser titular se estiver ativo e tiver pelo menos 5 partidas
-- Desempenho classificado automaticamente pela média de gols por partida: Excelente, Bom ou Regular
+- Regra de titularidade: jogador ativo com pelo menos 5 partidas
+- Desempenho classificado pela média de gols por partida (Excelente, Bom ou Regular)
 - Validação de entrada (`400`) e tratamento de registros inexistentes (`404`)
-- Acesso ao banco com Spring JDBC
 
 `Java 17` · `Spring Boot` · `Spring JDBC` · `PostgreSQL` · `Vue 3` · `Vite`
 
@@ -78,11 +98,10 @@ Aplicação full stack para cadastrar, consultar e analisar jogadores de futebol
 
 ### 🌐 [Site WS Assessoria Comercial](https://github.com/dsoares22/Site-Wsconsultoria)
 
-Landing page publicada para uma empresa de consultoria imobiliária e assessoria documental, com atuação em Timon e Teresina. Projeto real, no ar.
+Landing page publicada para uma empresa de consultoria imobiliária em Timon e Teresina. Projeto real, no ar.
 
-- Layout responsivo para computador, tablet e celular
-- Formulário de contato por e-mail, botões de WhatsApp e Instagram e mapa com a localização da empresa
-- Seções HTML separadas e carregadas por JavaScript, o que facilita a manutenção
+- Layout responsivo, formulário de contato por e-mail, WhatsApp, Instagram e mapa
+- Seções HTML separadas e carregadas por JavaScript
 - Publicação contínua na Netlify
 
 `HTML5` · `CSS3` · `JavaScript` · `Netlify`
@@ -90,6 +109,11 @@ Landing page publicada para uma empresa de consultoria imobiliária e assessoria
 **[Ver o código →](https://github.com/dsoares22/Site-Wsconsultoria)** · **[Acessar o site →](https://wsassessoriacomercial.netlify.app/)**
 
 ---
+
+## 🤝 Vamos conversar?
+
+Estou aberto a oportunidades de estágio, projetos e colaborações em desenvolvimento web.
+
 <div align="center">
   <a href="mailto:davisilvasoares1@gmail.com">📧 E-mail</a> ·
   <a href="https://www.linkedin.com/in/davi-silva-soares-469b9235b/">💼 LinkedIn</a>
