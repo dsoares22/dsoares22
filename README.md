@@ -3,10 +3,6 @@
 
   <br />
 
-  <img src="./assets/neymar-drible.gif" alt="Neymar driblando" width="250" />
-
-  <br />
-
 <a href="https://github.com/dsoares22"><img src="https://img.shields.io/badge/GitHub-dsoares22-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub: dsoares22" /></a> <a href="https://www.linkedin.com/in/davi-silva-soares-469b9235b/"><img src="https://img.shields.io/badge/LinkedIn-Davi%20Silva-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn de Davi Silva" /></a> <a href="mailto:davisilvasoares1@gmail.com"><img src="https://img.shields.io/badge/Email-Fale%20comigo-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Enviar e-mail para Davi" /></a>
 
 </div>
