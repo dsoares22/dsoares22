@@ -4,8 +4,6 @@
 
 **Desenvolvedor Full Stack** · Estudante de Engenharia de Software · Teresina, PI 🇧🇷
 
-*Transformo uma necessidade real em uma aplicação que funciona de ponta a ponta.*
-
 [![GitHub](https://img.shields.io/badge/GitHub-dsoares22-181717?style=for-the-badge&logo=github)](https://github.com/dsoares22)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Davi%20Silva-0A66C2?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/davi-silva-soares-469b9235b/)
 [![E-mail](https://img.shields.io/badge/E--mail-Fale%20comigo-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:davisilvasoares1@gmail.com)
