@@ -20,8 +20,6 @@ Sou estudante de **Engenharia de Software** em Teresina e desenvolvedor **full s
 - 🎨 Crio interfaces com **Vue 3**, HTML, CSS e JavaScript
 - 🔐 Já implementei **login com JWT**, rotas protegidas e dados separados por empresa
 - 🤝 Desenvolvo sites e sistemas para **clientes reais**, não só projetos de estudo
-- 🌱 Estudando agora: **Python e Django**
-
 ---
 
 ## 🧰 Tecnologias
